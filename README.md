@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @maurorasec624
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Olá, sou Mauro Rasec, sou um Programador Front End, atualmente estou estudando e criando projetos com:
+- 
+   <img src=" [HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)" alt="HTML-logo"/>
 
-<!---
-maurorasec624/maurorasec624 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-
+- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS-logo"/>
+
+  E iniciando o aprendizado com:
+   <br>
+   <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript-logo">
+  <br>
+  <br>
+  
+   <b>Contatos</b>
+
+   <p>
+     <a href="https://www.instagram.com/maurorasec">
+      <img align="left" alt="icone do instagram câmera dentro de um quadrado" width="22px" src="https://cdn-icons-png.freepik.com/256/14441/14441296.png?ga=GA1.1.888830735.1744073142&semt=ais_hybrid"> 
+     </a>
+     <a href="https://wa.me/5598991787405">
+     <img align="left"  width="22px"  src="https://img.icons8.com/?size=100&id=44418&format=png&color=000000"/>
+     </a>
+   </p>
+ <br>
+ <br>
+
+[![MauroRasec stats](https://github-readme-stats.vercel.app/api?username=Maurorasec624)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
